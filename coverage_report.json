@@ -1,0 +1,18 @@
+{
+  "database": "C:\\Users\\m.khosravi\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an\\outputs\\qanoonnameh_v12_offline.sqlite3",
+  "book_source_id": 1,
+  "verified_headings": 0,
+  "company_documents": 3,
+  "status": "partial",
+  "gaps": [
+    "فهرست مطالب دقیق ویرایش دوازدهم هنوز منبع قابل راستی‌آزمایی ندارد.",
+    "نسخه قانونی یا تصاویر صفحات فهرست لازم است.",
+    "متن و فراداده سه PDF شرکت هنوز استخراج و اعتبارسنجی نشده است.",
+    "مرجع تصویب نهایی آیین‌نامه نسخه جدید احراز نشده است."
+  ],
+  "sources_checked": [
+    "https://qanoonnameh.ir/",
+    "https://oxinbook.com/",
+    "https://t.me/s/aliqarahdaghli"
+  ]
+}
